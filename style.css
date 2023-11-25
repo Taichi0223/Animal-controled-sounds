@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+    color:rgba(114, 6, 215, 0.863);
+
+}
+.header{
+    background-color:rgb(23, 49, 56);
+    width :60% ;
+    padding : 10px;
+}
+.header h3{
+    color: lightblue 
+}
+body button{
+    border: 2px solid blue !important;
+    padding:10px !important;
+    width: 200px !important;
+}
+.footer{
+    background-color: lightgoldenrodyellow;
+width:400px
+}
+
